@@ -1,0 +1,5 @@
+N = 100,000,000
+
+Rust: 0.12 seconds
+Python: 9.33 seconds
+PyO3: 0.12 seconds
